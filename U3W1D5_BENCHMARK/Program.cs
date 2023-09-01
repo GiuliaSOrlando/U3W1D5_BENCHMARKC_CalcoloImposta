@@ -55,7 +55,7 @@ namespace U3W1D5_BENCHMARK
         // Infine li ho formattati in "Title Case" (la prima lettera maiuscola e le altre minuscole). 
         // Per i campi data di nascita e reddito ho validato i rispettivi formati (DateTime e decimal).
         // Ho anche aggiunto una condizione che impedisca l'inserimento di un reddito negativo 
-        // e un paio di condizioni che limitino la data di nascita (maggiore età e data di nascita).
+        // e un paio di condizioni che limitino la data di nascita (maggiore età e data di nascita nel futuro).
         // Invece per il sesso e il codice fiscale validazione e formattazione sono specifiche (vedi sotto).
 
         {
